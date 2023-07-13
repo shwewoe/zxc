@@ -1,29 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://i2-prod.leeds-live.co.uk/sport/leeds-united/article16245798.ece/ALTERNATES/s615/0_Untitled-design-19.png" group-title="Sports", Live Stream 1 FHD
-
-#EXTVLCOPT:http-referrer=https://1stream.eu/
-
-https://xwssgs.1stream.one/scripts/MTA1MzU=/caxi.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/live-full-hd-button-globe-sign-emblem-logo-template-citybanner-website-design-cover-infographics-vector-illustration-light-95579869.jpg" group-title="Sports", Live Stream 2 FHD
-
-#EXTVLCOPT:http-referrer=https://www.sportshub.to/
-
-https://s1.tapersti.tk/hls/stream-2/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/live-full-hd-button-globe-sign-emblem-logo-template-citybanner-website-design-cover-infographics-vector-illustration-light-95579869.jpg" group-title="Sports", Live Stream 3 FHD
-
-#EXTVLCOPT:http-referrer=https://www.sportshub.to/
-
-https://s1.tapersti.tk/hls/stream-3/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/live-full-hd-button-globe-sign-emblem-logo-template-citybanner-website-design-cover-infographics-vector-illustration-light-95579869.jpg" group-title="Sports", Live Stream 4 FHD
-
-#EXTVLCOPT:http-referrer=https://www.sportshub.to/
-
-https://s1.tapersti.tk/hls/stream-4/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/861/original/live-logo-free-png.png" group-title="Sports", Live Stream 1 HD
 
 #EXTVLCOPT:http-referrer=https://bdnewszh.com/
